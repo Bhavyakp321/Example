@@ -18,4 +18,4 @@ This repository contains a Python script to fetch a URL using the `requests` lib
 3. **Run the script** using Python:
    - python exp.py
 
-4. The script will fetch data from the provided URL. If successful, you will see the message  **"Success! Response Content"** in the console.
+4. This script makes an GET request to a given URL. If successful, you will see the message  **"Success! Response Content"** in the console.
